@@ -1,2 +1,2 @@
-# HelloWeatherApacheCordova
-Took a demo from Microsoft for using Visual Studio to write a cross-platform Apache Cordova weather app and modified.
+# Hello Weather Apache Cordova
+Took a tutorial from Microsoft for using Visual Studio to write a cross-platform weather app using Apache Cordova and modified it for my own tutorial purposes.
